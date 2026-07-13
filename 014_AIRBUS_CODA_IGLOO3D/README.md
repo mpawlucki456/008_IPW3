@@ -18,7 +18,7 @@ alberto.della-noce@airbus.com
 
 **Solver Name and Version:**
 
-CODA 2026.02.1
+CODA 2026.02.1 \
 IGLOO3D 2.3.1.2
 
 **Flow Algorithm:**
@@ -31,7 +31,7 @@ Negative Spalart-Allmaras (SA-neg)
 
 **Droplet Trajectory Algorithm:**
 
-Lagrangian
+Lagrangian with automatic cloud refinement
 
 **Thermodynamic Algorithm:**
 
