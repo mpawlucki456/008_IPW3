@@ -23,7 +23,7 @@ IGLOO3D 2.3.1.2
 
 **Flow Algorithm:**
 
-Finite Volume, 3 stages, 2nd order
+Finite Volume, 2nd order
 
 **Turbulence Model:**
 
@@ -41,15 +41,7 @@ Messinger method
 
 Lagrangian node displacement
 
-## Other Information
-
-Add any other Dataset 01 information here.
-
 ## References
-
-Please provide relevant articles, papers, reports, or other references related to your solver, modeling approach, grid generation method, or submitted work here.
-
-Example format:
 
 ```text
 P. Stefanin Volpiani, J.-B. Chapelier, A. Schwöppe, J. Jägersküpper, and S. Champagneux, "Aircraft Simulations Using the New CFD Software from ONERA, DLR, and Airbus," Journal of Aircraft, 2024. 10.2514/1.C037506.
