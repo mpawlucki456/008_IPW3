@@ -67,5 +67,5 @@ Single step.
 ```text
 I Roberts, “TAC3D+ (Trajectory and Catch 3D) Lagrangian Solver – Verification Report”, A16VERI00100116, Issue 1, 5th November 2016
 
-A Vieira, R Moser, M Gerstenbrand, et. al. "Experimental and Numerical 3D Ice Accretion on Generic Test Model," AIAA 2025-3440, July 2025. https://doi.org/10.2514/6.2025-3440 
+A Vieira, R Moser, M Gerstenbrand, et al. "Experimental and Numerical 3D Ice Accretion on Generic Test Model," AIAA 2025-3440, July 2025. https://doi.org/10.2514/6.2025-3440
 ```
